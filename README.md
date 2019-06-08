@@ -14,11 +14,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 you would like to change.
 
 ## Screenshot
+Home page
 
+![Page one](/Images/Three.png)
+
+Customer Form
 ![Page one](/Images/one.png)
 
-
+Item Form
 ![Page one](/Images/two.png)
 
 
-![Page one](/Images/three.png)
